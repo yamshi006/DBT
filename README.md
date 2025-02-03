@@ -1,16 +1,2 @@
-Welcome to your new dbt project!
-
-### Using the starter project
-
-Try running the following commands:
-- dbt run
-- dbt test
-
-
-### Resources:
-- Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
-- Check out [Discourse](https://discourse.getdbt.com/) for commonly asked questions and answers
-- Join the [chat](https://community.getdbt.com/) on Slack for live discussions and support
-- Find [dbt events](https://events.getdbt.com) near you
-- Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
-# DBT
+This pipeline analyses AIRBNB data using DBT framework.
+DBT stands for "Data Build Tool". It's an open-source tool that helps data engineers and analysts build and manage data transformations. dbt operates within a data warehouse, transforming raw data into business-ready insights. It acts as a bridge between data sources and analytical tools.
